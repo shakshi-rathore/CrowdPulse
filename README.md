@@ -1,15 +1,15 @@
-🧠 AI-Powered Collective Intelligence Polling System
+# 🧠 CROWDPULSE :AI-Powered Intelligence Polling System
 
 A smart polling platform that goes beyond percentages to analyze crowd behavior, amplify intelligent minority opinions, and predict future trends using AI and statistical analysis.
 
-📌 Overview
+## 📌 Overview
 
 Traditional polling applications only display vote percentages, which limits understanding of why people vote a certain way or how opinions may change over time.
 
 This project enhances standard polling by combining statistical analysis, minority weighting, trend prediction, and AI-generated explanations — while still preserving normal percentage-based results.
 
-✨ Key Features
-✅ Percentage-Based Poll Results
+## ✨ Key Features
+### ✅ Percentage-Based Poll Results
 
 - Displays total votes and option-wise percentages
 
@@ -17,15 +17,15 @@ This project enhances standard polling by combining statistical analysis, minori
 
 - Ensures transparency and fairness
 
-📊 Statistical Vote Analysis
+### 📊 Statistical Vote Analysis
 
 - Measures opinion diversity and polarization
 
 - Detects early-vote bias and opinion instability
 
-3) Helps interpret how strong or weak a majority really is
+- Helps interpret how strong or weak a majority really is
 
-🧠 Minority Weighting (Core Innovation)
+### 🧠 Minority Weighting (Core Innovation)
 
 - Tracks historical prediction accuracy of users
 
@@ -33,9 +33,9 @@ This project enhances standard polling by combining statistical analysis, minori
 
 - Identifies intelligent minority opinions
 
-Does NOT change actual vote percentages
+- Does NOT change actual vote percentages
 
-🔮 Opinion Trend Prediction
+### 🔮 Opinion Trend Prediction
 
 - Analyzes how vote percentages change over time
 
@@ -43,7 +43,7 @@ Does NOT change actual vote percentages
 
 - Displays projected results graphically
 
-📝 AI-Generated Explanation
+### 📝 AI-Generated Explanation
 
 Converts numerical results into simple English insights
 
@@ -57,7 +57,7 @@ Explains:
 
 - Improves accessibility and understanding
 
-🔄 System Workflow
+## 🔄 System Workflow
 
 User Votes->
 Percentage Calculation ->
@@ -66,7 +66,7 @@ Minority Weighting->
 Trend Prediction->
 AI Explanation
 
-🧩 Technology Stack
+## 🧩 Tech Stack
 
 -Frontend:React,Chart.js / Recharts
 
